@@ -1,16 +1,17 @@
-# spend_summary
+## AI Tools Used
 
-A new Flutter project.
+I used Claude as an AI assistant during this assignment.
 
-## Getting Started
+I have been using Claude for a long time, so I am comfortable with its workflow, response style, and code suggestions. I chose Claude because it helps me quickly understand requirements, break tasks into smaller steps, and generate clean Flutter UI code faster.
 
-This project is a starting point for a Flutter application.
+For this project, I first reviewed the assignment requirements and planned the project structure based on the required Spend Summary features. Claude was then used to generate the initial Flutter widget code, mock data, and UI layout ideas based on that plan.
 
-A few resources to get you started if this is your first Flutter project:
+After the code generation, I manually reviewed the code, customized the UI, adjusted spacing, colors, interactions, and tested the app on an emulator.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+AI was used mainly for:
+- Requirement breakdown and implementation guidance
+- Faster Flutter widget code generation
+- Mock data and UI layout suggestions
+- Quick iteration during development
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The final implementation decisions, UI customization, and testing were done manually by me.
