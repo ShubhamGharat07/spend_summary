@@ -1,3 +1,13 @@
+## Spend Summary App
+
+A Flutter Spend Summary screen built with mock data.
+
+## Screenshots
+
+<img src="screenshots/Emulator.png" width="280" alt="Spend Summary app screenshot on emulator" />
+
+<img src="screenshots/physicaldevice.jpeg" width="280" alt="Spend Summary app screenshot on physical device" />
+
 ## AI Tools Used
 
 I used Claude as an AI assistant during this assignment.
